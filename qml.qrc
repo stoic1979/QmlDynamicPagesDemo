@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Home.qml</file>
+        <file>Button.qml</file>
+        <file>Settings.qml</file>
+        <file>PageManager.qml</file>
+        <file>Calendar.qml</file>
+    </qresource>
+</RCC>
